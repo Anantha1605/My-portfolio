@@ -6,4 +6,4 @@ Hi, I'm Anantha, a passionate developer with a flair for creating innovative sol
 - Developing dynamic web applications using React, and Tailwind CSS.
 - Exploring algorithmic problem-solving, with a focus on C++.
 - Building responsive and intuitive interfaces that enhance usability.
-- Tackling real-world problems, such as optimizing ship routing systems or crafting minimalist UI designs.
+- Tackling real-world problems.
