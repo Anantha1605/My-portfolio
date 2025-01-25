@@ -1,0 +1,13 @@
+Skills to include:
+Python 
+C++
+C
+HTML
+CSS
+Tailwind CSS
+React
+MySQL
+OpenCV
+Git
+Figma
+Lightroom 
