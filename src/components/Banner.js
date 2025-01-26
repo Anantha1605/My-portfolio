@@ -81,7 +81,7 @@ export const Banner = () => {
                     </span>
                   </h1>
                   <p>
-                  I am a sophomore pursuing a B. Tech in Computer Science with a passion for autonomous system technologies and hardware, as well as web development. Skilled in technologies like React and OpenCV, I always stay eager to learn, collaborate, and build innovative software solutions.
+                  I am a sophomore pursuing a B. Tech in Computer Science at NIT Surat. I have great passion for autonomous system technologies and hardware, as well as web development. Skilled in technologies like React and OpenCV, I always stay eager to learn, collaborate, and build innovative software solutions.
                   <br />Connecting with the Tech-Community is always exciting!
                   </p>
                   <button onClick={() => document.getElementById("connect").scrollIntoView({ behavior: "smooth" })}>
